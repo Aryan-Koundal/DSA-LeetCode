@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
