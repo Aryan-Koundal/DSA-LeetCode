@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -28,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
