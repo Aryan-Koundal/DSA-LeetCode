@@ -14,6 +14,7 @@
 | [1672-richest-customer-wealth](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0412-fizz-buzz) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
