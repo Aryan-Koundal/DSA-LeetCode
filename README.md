@@ -34,6 +34,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0412-fizz-buzz) |
+| [1108-defanging-an-ip-address](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
