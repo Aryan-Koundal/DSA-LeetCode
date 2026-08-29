@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0283-move-zeroes) |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
