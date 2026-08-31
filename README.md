@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
