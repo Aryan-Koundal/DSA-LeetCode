@@ -8,7 +8,6 @@ class Solution(object):
         x = x.lower()
         if x == a:
             return True
-        elif x != a:
-            return False 
+        return False 
 
         
