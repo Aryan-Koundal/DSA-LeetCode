@@ -21,6 +21,7 @@
 | [1929-concatenation-of-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3903-smallest-stable-index-i](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
