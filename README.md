@@ -20,6 +20,7 @@
 | [1920-build-array-from-permutation](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -29,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +120,12 @@
 | [0185-department-top-three-salaries](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0620-not-boring-movies) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
