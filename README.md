@@ -36,6 +36,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3870-count-commas-in-range](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
