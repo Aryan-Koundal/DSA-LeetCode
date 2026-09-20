@@ -128,6 +128,7 @@
 | [0185-department-top-three-salaries](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0620-not-boring-movies) |
 ## Recursion
