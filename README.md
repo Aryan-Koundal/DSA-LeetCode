@@ -132,6 +132,7 @@
 | [0197-rising-temperature](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0620-not-boring-movies) |
 ## Recursion
