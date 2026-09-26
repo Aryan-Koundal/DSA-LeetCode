@@ -41,6 +41,7 @@
 | [0412-fizz-buzz](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2469-convert-the-temperature) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Trie
 |  |
 | ------- |
