@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -61,6 +62,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
