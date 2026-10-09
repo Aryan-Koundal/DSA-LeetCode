@@ -1,1 +1,0 @@
-select product_id from Products as p where p.low_fats = 'Y' and recyclable = 'Y';
