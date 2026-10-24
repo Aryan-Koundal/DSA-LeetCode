@@ -145,6 +145,7 @@
 | [0620-not-boring-movies](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1683-invalid-tweets](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Recursion
