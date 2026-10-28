@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -31,6 +32,7 @@
 | [0001-two-sum](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -39,6 +41,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -87,6 +90,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -111,10 +115,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Trie
 |  |
