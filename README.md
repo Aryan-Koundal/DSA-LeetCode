@@ -37,6 +37,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -63,6 +64,7 @@
 | [0344-reverse-string](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
