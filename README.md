@@ -72,6 +72,7 @@
 | [1528-shuffle-string](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
@@ -104,6 +105,7 @@
 | [0268-missing-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1859-sorting-the-sentence](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
