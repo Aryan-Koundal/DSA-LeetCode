@@ -17,6 +17,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -107,6 +108,7 @@
 | [0268-missing-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
@@ -115,6 +117,7 @@
 | [0125-valid-palindrome](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
