@@ -60,6 +60,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
 ## String
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Counting Sort
 |  |
 | ------- |
