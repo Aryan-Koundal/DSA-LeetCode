@@ -25,6 +25,7 @@
 | [1528-shuffle-string](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
@@ -44,6 +45,7 @@
 | [0771-jewels-and-stones](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -78,6 +80,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1859-sorting-the-sentence) |
@@ -103,6 +106,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +154,7 @@
 | [0268-missing-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
 | ------- |
