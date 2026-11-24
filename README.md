@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Aryan-Koundal/DSA-LeetCode/tree/master/0412-fizz-buzz) |
